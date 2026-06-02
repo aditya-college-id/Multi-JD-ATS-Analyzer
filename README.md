@@ -62,10 +62,11 @@ Multi-JD-ATS-Analyzer/
 ### Email Report
 
 ![Email Report](screenshots/email-report.png)
-
 ### Google Sheets Results
 
-![Google Sheets](screenshots/google-sheet-results1.png)![Google Sheets](screenshots/google-sheet-results2.png)![Google Sheets](screenshots/google-sheet-results3.png)
+![Google Sheets](screenshots/google-sheet-results1.png)
+![Google Sheets](screenshots/google-sheet-results2.png)
+![Google Sheets](screenshots/google-sheet-results3.png)
 
 ## Future Improvements
 
