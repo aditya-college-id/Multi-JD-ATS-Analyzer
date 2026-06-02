@@ -1,3 +1,21 @@
+
+![n8n](https://img.shields.io/badge/n8n-Automation-orange)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-blue)
+![Gmail](https://img.shields.io/badge/Gmail-Integration-red)
+
+## Important Note
+
+This repository contains a sanitized version of the workflow for demonstration purposes.
+
+Before running the workflow, replace placeholder values and configure your own:
+
+- OpenAI credentials
+- Google Drive credentials
+- Google Sheets credentials
+- Gmail credentials
+
+
 # Multi JD ATS Analyzer
 
 An AI-powered ATS Resume Analyzer built with n8n that compares a candidate's resume against multiple job descriptions and identifies the best matching roles based on ATS compatibility scores.
