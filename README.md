@@ -57,15 +57,15 @@ Multi-JD-ATS-Analyzer/
 
 ### Workflow Overview
 
-(Add workflow screenshot here)
+![Workflow](screenshots/workflow-overview.png)
 
 ### Email Report
 
-(Add email report screenshot here)
+![Email Report](screenshots/email-report.png)
 
 ### Google Sheets Results
 
-(Add Google Sheets screenshot here)
+![Google Sheets](screenshots/google-sheet-results1.png)![Google Sheets](screenshots/google-sheet-results2.png)![Google Sheets](screenshots/google-sheet-results3.png)
 
 ## Future Improvements
 
