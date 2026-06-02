@@ -213,7 +213,7 @@
       ],
       "id": "daef06e9-a8d1-415b-b6dc-145ab7c71ec7",
       "name": "Send a message",
-      "webhookId": "fb8cd9d2-2873-46a7-a39c-fe1dd60fc47e",
+      "webhookId": "YOUR_WEBHOOK_ID",
       "credentials": {
         "gmailOAuth2": {
           "id": "QyoDPQg2akEOIwxd",
@@ -363,7 +363,7 @@
       ],
       "id": "28469387-6584-43e8-b650-b4ecf29c1eaa",
       "name": "On form submission",
-      "webhookId": "2de89994-00b0-402b-a3b1-7e7345900efb"
+      "webhookId": "YOUR_WEBHOOK_ID"
     }
   ],
   "pinData": {},
