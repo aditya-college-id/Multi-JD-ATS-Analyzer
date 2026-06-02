@@ -22,10 +22,10 @@
         "filter": {
           "folderId": {
             "__rl": true,
-            "value": "1fTJq4yln9mRg6dhkDDXL8OorTu4BibIl",
+            "value": "YOUR_GOOGLE_DRIVE_FOLDER_ID",
             "mode": "list",
             "cachedResultName": "ATS_JDs",
-            "cachedResultUrl": "https://drive.google.com/drive/folders/1fTJq4yln9mRg6dhkDDXL8OorTu4BibIl"
+            "cachedResultUrl": "YOUR_GOOGLE_SHEET_URL"
           }
         },
         "options": {}
