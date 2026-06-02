@@ -53,6 +53,21 @@ Multi-JD-ATS-Analyzer/
     └── architecture-diagram.png
 ```
 
+
+## Setup
+
+To run this workflow:
+
+1. Import the workflow into n8n.
+2. Configure OpenAI credentials.
+3. Configure Google Drive credentials.
+4. Configure Google Sheets credentials.
+5. Configure Gmail credentials.
+6. Create a Google Drive folder containing job descriptions.
+7. Create a Google Sheet using the provided schema.
+8. Activate the workflow.
+
+
 ## Screenshots
 
 ### Workflow Overview
